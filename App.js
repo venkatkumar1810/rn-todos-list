@@ -80,6 +80,7 @@ const styles = StyleSheet.create({
   },
   items: {
     marginTop: 20,
+    minHeight: '86%',
     maxHeight: '86%',
   },
   writeTaskWrapper: {
